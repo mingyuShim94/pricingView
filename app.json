@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "pricingView",
+    "slug": "pricingView",
+    "version": "1.0.0",
+    "assetBundlePatterns": ["**/*"]
+  },
+
+  "name": "pricingView"
+}
